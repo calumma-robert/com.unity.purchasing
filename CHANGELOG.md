@@ -1,5 +1,5 @@
 # Changelog
-## [4.12.2+c] - 2025-01-27
+## [4.12.21] - 2025-01-27
 ### Fixed
 - Lumin assembly definition issues fixed
 
