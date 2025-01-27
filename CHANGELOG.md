@@ -1,4 +1,8 @@
 # Changelog
+## [4.12.2+c] - 2025-01-27
+### Fixed
+- Lumin assembly definition issues fixed
+
 ## [4.12.2] - 2024-07-17
 ### Fixed
 - GooglePlay - Fixed `Product.receipt`'s `price_amount_micros` returning a string instead of a long.
